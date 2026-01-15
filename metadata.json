@@ -1,0 +1,8 @@
+{
+  "name": " Dentist",
+  "description": "A high-end dental studio landing page featuring a midnight emerald theme, gold accents, and cutting-edge technology sections.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
